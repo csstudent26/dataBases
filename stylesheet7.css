@@ -1,0 +1,171 @@
+
+
+
+/*HEADER*/
+header {
+  background-color: #f9f9f9;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 18px; /* Add this line to increase the font size */
+
+}
+
+nav ul li a:hover {
+  color: #f00;
+}
+
+.logo h2 {
+  letter-spacing: 4px; /* Adjust the value as needed to add spacing between the letters */
+}
+
+
+
+
+
+/*BANNER*/
+
+
+.hotel-banner {
+  width: 100%;
+  height: 100vh;
+  background-image: url('Hotel.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-size: 33% auto; /* Adjust the width percentage as needed */
+
+  background-color: white;
+  padding-bottom: 20px; /* Adjust the value as needed */
+}
+
+
+
+
+
+.hotel-banner h1 {
+
+  font-family: Catamaran;
+  font-size: 20px;
+  text-align: center;
+  
+  color: #5690c0;    
+
+  
+  
+  
+
+
+}
+
+
+
+
+.look {
+
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+  
+ 
+
+
+/*MY CODE*/
+
+
+
+/* Styling the form container */
+section form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Styling form labels */
+  section form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Styling form input fields */
+  section form input[type="date"],
+  section form input[type="number"],
+  section form input[type="text"],
+  section form input[type="email"],
+  section form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styling form submit button */
+  section form input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Styling form submit button on hover */
+  section form input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+  section form {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: 33.33%; /* Set the width to one-third of the page */
+  }
+
+  section.hotel-middle h2 {
+    margin-left: 200px;
+  }
+  
+  
+  
