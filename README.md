@@ -60,7 +60,7 @@ CREATE TABLE Bookings (
    
    Now insertions and other Queries may be run from the Terminal in the Directory, since java is connected directly with the MySQL data base.
    
-   Or if an IDE is opened and the java file copied into the IDE, the IDE can be used for the Queries. The java file will be automatically updated if the terminal is again used in the directory.
+   Or if an IDE is opened and the java file copied into the IDE, the IDE can be used for the Queries. The java file (in the directory) will be automatically updated if the terminal is again used in the directory.
 
 5. Configure the database connection in the Java code to connect to your local MySQL database.
 
