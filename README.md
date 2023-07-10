@@ -53,9 +53,13 @@ CREATE TABLE Bookings (
 
 3. Download the project files and place them in the same directory.(You can open a terminal in your local directory and the 2 using commands :
    (a) javac HotelDatabase.java
+
    (b) java -cp ".;C:\Users\odono\Downloads\mysql-connector-j-8.0.33\mysql-connector-j-8.0.33\mysql-connector-j-8.0.33.jar" HotelDatabase
+   
    The first commands compiles the code and the second includes the path to your JDBC Driver . (To connect MySQL with java)
+   
    Now insertions and other Queries may be run from the Terminal in the Directory, since java is connected directly with the MySQL data base.
+   
    Or if an IDE is opened and the java file copied into the IDE, the IDE can be used for the Queries. The java file will be automatically updated if the terminal is again used in the directory.
 
 5. Configure the database connection in the Java code to connect to your local MySQL database.
