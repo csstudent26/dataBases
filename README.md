@@ -21,8 +21,9 @@ To run this project locally, follow these steps:
 1. Ensure that you have MySQL and JDBC installed on your local machine.
 2. Create a MySQL database named `hotel_db`.
 
-there  are  3  T
-there  are  3  Tables  in the data base: 
+
+There  are  3  Tables  in the data base: 
+
 CREATE TABLE Customers (
   customer_id INT PRIMARY KEY AUTO_INCREMENT,
   name VARCHAR(50),
