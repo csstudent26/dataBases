@@ -12,25 +12,7 @@ The aim of this project is to demonstrate the usefulness of databases and how th
 - JDBC
 - MySQL
 
-## Project Setup
 
-To run this project locally, follow these steps:
-
-1. Ensure that you have MySQL and JDBC installed on your local machine.
-2. Create a MySQL database named `hotel_db`.
-# dataBases Project
-
-## Description
-
-The aim of this project is to demonstrate the usefulness of databases and how they can be integrated with other technologies such as HTML, CSS, Java, JDBC, and MySQL. It showcases the implementation of a database-driven application and provides insights into how different components work together.
-
-## Technologies Used
-
-- HTML
-- CSS
-- Java
-- JDBC
-- MySQL
 
 ## Project Setup
 
