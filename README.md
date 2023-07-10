@@ -52,7 +52,7 @@ CREATE TABLE Bookings (
 
 
 
-3. Download the project files and place them in the same directory.(You can open a terminal in your local directory and the 2 using commands :
+3. Download the project files and place them in the same directory.(You can open a terminal in your local directory and  using 2 commands , both compile and run the program:
    (a) javac HotelDatabase.java
 
    (b) java -cp ".;C:\Users\odono\Downloads\mysql-connector-j-8.0.33\mysql-connector-j-8.0.33\mysql-connector-j-8.0.33.jar" HotelDatabase
