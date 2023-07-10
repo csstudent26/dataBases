@@ -89,16 +89,20 @@ public class HotelDatabase {
 		
 		System.out.println("inside insertRecord method");
 		
-		String sql = "insert into student(name, percentage,address) values(?, ?, ?)";
+	//	String sql = "insert into student(name, percentage,address) values(?, ?, ?)";
+	    String sql = "insert into Customers(name, email, phone, address) values(?, ?, ?, ?)";
+
 		
 		PreparedStatement preparedstatement = connection.prepareStatement(sql);
 		System.out.println("Enter Name :");
 		preparedstatement.setString(1, scanner.nextLine());
-		System.out.println("Enter Percentage:");
-		preparedstatement.setDouble(2, scanner.nextDouble());
-		scanner.nextLine();
-		System.out.println("Enter Address :");
+		System.out.println("Enter Email:");
+		preparedstatement.setString(2, scanner.nextLine());
+	
+		System.out.println("Enter Phone :");
 		preparedstatement.setString(3, scanner.nextLine());
+		System.out.println("Enter Address :");
+		preparedstatement.setString(4, scanner.nextLine());
 		System.out.println();
 		
 		int rows = preparedstatement.executeUpdate();
