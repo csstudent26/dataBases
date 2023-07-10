@@ -72,4 +72,12 @@ This project utilizes GitHub Pages, a hosting service provided by GitHub for sta
 
 On the author's own website, there is an interactive version of this project. By visiting the "Hotel" page, users can interact with the web application and experience its functionality firsthand. Please refer to the author's website for access to the interactive version.
 
+#Project Status
+Please note that this project is currently in progress and not yet fully completed. There are certain functionalities that are still being developed. The following are the pending tasks:
 
+Enable user interaction to allow booking of rooms.
+Implement management features to facilitate database interaction.
+Create the hotel.html page to enhance user experience and provide additional functionality.
+These remaining tasks are critical to the overall completion of the project and will be implemented in future updates. Stay tuned for further developments!
+
+Thank you for your understanding and patience as we work towards enhancing the project's functionality.
