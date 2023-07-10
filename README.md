@@ -67,7 +67,7 @@ CREATE TABLE Bookings (
 
 ## GitHub Pages
 
-This project utilizes GitHub Pages, a hosting service provided by GitHub for static websites. You can visit the live site on GitHub Pages to see the appearance of the project. Note that GitHub Pages only supports static content, so interactivity may be limited in this context.
+This project utilizes GitHub Pages, a hosting service provided by GitHub for static websites. You can visit the live site on GitHub Pages to see the appearance of the project :https://github.com/csstudent26/dataBases . Note that GitHub Pages only supports static content, so interactivity may be limited in this context.
 
 ## Interaction on Your Own Website
 
