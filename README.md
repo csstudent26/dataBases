@@ -80,6 +80,6 @@ Enable user interaction to allow booking of rooms.
 Implement management features to facilitate database interaction.
 Create the hotel.html page to enhance user experience and provide additional functionality.
 These remaining tasks are critical to the overall completion of the project and will be implemented in future updates. Stay tuned for further developments!
-Please see DataBases2 (another project in this repository. it demonstrates some of the interactive features we want)
+Please see 'dataBases2' (another project in this repository. it demonstrates some of the interactive features we want)
 
 Thank you for your understanding and patience as we work towards enhancing the project's functionality.
